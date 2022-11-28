@@ -33,8 +33,15 @@ I participate in a few software-specific communities that are hosted via Discour
 
 ## [Discord](https://discord.com) 🤷🏻‍♂️
 
-I'm still figuring this one out. (My 14yo daughter is _way_ ahead of me here! 🤣) At [work](https://contentauthenticity.org), we started using Discord a few months ago as a discussion forum for our open-source efforts. To be completely honest, I've struggled to keep up with it. It feels like just another instant-messaging venue and I have too many of those already. I've learned that having things beeping at me (___ responded to ___) all the time is terribly destructive to my productivity. But if I switch the thing off, I forget to _ever_ check the thing. (Discord being just one example of "the thing." Slack, text messages, Facebook Messenger, Twitter, all fall into that same category.) But ... it does seem to be in the up-and-coming category for how to stay in touch with people with low friction.
+I'm still figuring this one out. (My teenager is _way_ ahead of me here! 🤣) At [work](https://contentauthenticity.org), we started using Discord a few months ago as a discussion forum for our open-source efforts. To be completely honest, I've struggled to keep up with it. It feels like just another instant-messaging venue and I have too many of those already. I've learned that having things beeping at me (___ responded to ___) all the time is terribly destructive to my productivity. But if I switch the thing off, I forget to _ever_ check the thing. (Discord being just one example of "the thing." Slack, text messages, Facebook Messenger, Twitter, all fall into that same category.) But ... it does seem to be in the up-and-coming category for how to stay in touch with people with low friction.
 
 ## What Say You?
 
-This site being [statically-hosted](https://getzola.org), it's not well prepared for discussion. So ... wherever you know me or can find me (Facebook, Mastodon, Twitter, e-mail, etc.), drop me a note and let me know where you're headed to keep up with people.
+This site being [statically-hosted](https://getzola.org), it's not well prepared for discussion. So ... here are some other venues where I'd love to hear where you're headed to keep up with people:
+
+* [Discuss on Facebook](https://www.facebook.com/eric.scouten/posts/pfbid025fngvfBGfaU3u3DE7iT1f9E4sXSGofQEEnD2MLe3UACSU1jUrB7EwGMjiKndBhPql)
+* [Discuss on Mastodon](https://techhub.social/@scouten/109423015226262970)
+* ~~[Discuss on Twitter](https://twitter.com/scouten/status/1597308147735359489)~~. No, let's not.
+* ~~Discuss on LinkedIn~~. I'm on a plane as I write this and thus unable to sign in to my LinkedIn. (Thank you, two-factor authentication!) Once I'm on the ground and have access, I'll add a link here.
+
+Or, if you know me in person or via text or e-mail or carrier pigeon, feel free to send your thoughts that way, too.
