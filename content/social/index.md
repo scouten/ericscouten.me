@@ -42,6 +42,6 @@ This site being [statically-hosted](https://getzola.org), it's not well prepared
 * [Discuss on Facebook](https://www.facebook.com/eric.scouten/posts/pfbid025fngvfBGfaU3u3DE7iT1f9E4sXSGofQEEnD2MLe3UACSU1jUrB7EwGMjiKndBhPql)
 * [Discuss on Mastodon](https://techhub.social/@scouten/109423015226262970)
 * ~~[Discuss on Twitter](https://twitter.com/scouten/status/1597308147735359489)~~. No, let's not.
-* ~~Discuss on LinkedIn~~. I'm on a plane as I write this and thus unable to sign in to my LinkedIn. (Thank you, two-factor authentication!) Once I'm on the ground and have access, I'll add a link here.
+* [Discuss on LinkedIn](https://www.linkedin.com/posts/ericscouten_where-to-find-me-in-this-new-social-world-activity-7003090384000094208-sm_b)
 
 Or, if you know me in person or via text or e-mail or carrier pigeon, feel free to send your thoughts that way, too.
