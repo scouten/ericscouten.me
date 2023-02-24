@@ -19,9 +19,11 @@ I've been on Facebook [personally](https://www.facebook.com/eric.scouten) and [a
 
 My oh my, Twitter has become a hot mess lately. I largely stopped posting several years ago amid concerns about my privacy. (I subsequently went back and deleted almost my entire timeline.) The new leadership is _not_ helping matters. **At. All.** I'm leaving my account open only to protect my name there, but don't expect _anything_ from me except pointers on where else to find me.
 
-## [Mastodon](https://techhub.social/@scouten) 🔼
+## [Mastodon](https://ericscouten.social/@scouten) 🔼
 
-This seems to be the widely-accepted place for Twitter refugees to go to. It's a bit confusing because there isn't _one_ Mastodon but hundreds of them, each with their own bespoke content and moderation policies. Choosing your "home" Mastodon instance isn't exactly straightforward. This is both a blessing (decentralization means no single point of failure) and a challenge (non-technical users may find it difficult to choose their "home" server). But I'm giving it a whirl. If you're in the Twitter and/or Facebook diaspora, try following me at at <a rel="me" href="https://techhub.social/@scouten">@scouten@techhub.social</a>. As of this writing, my account is all of two hours old and I have exactly one follower (someone I've not met before -- hello!). I _think_ I'll use this to post new blog articles (which also usually go to Facebook), but I'm not sure yet.
+This seems to be the widely-accepted place for Twitter refugees to go to. It's a bit confusing because there isn't _one_ Mastodon but hundreds of them, each with their own bespoke content and moderation policies. Choosing your "home" Mastodon instance isn't exactly straightforward. This is both a blessing (decentralization means no single point of failure) and a challenge (non-technical users may find it difficult to choose their "home" server). But I'm giving it a whirl. If you're in the Twitter and/or Facebook diaspora, try following me at at <a rel="me" href="https://ericscouten.social/@scouten">@scouten@ericscouten.social</a>. As of this writing, my account is all of two hours old and I have exactly one follower (someone I've not met before -- hello!). I _think_ I'll use this to post new blog articles (which also usually go to Facebook), but I'm not sure yet.
+
+**February 2023 update:** I've set up a personal Mastodon instance at [@scouten@ericscouten.social](https://ericscouten.social/@scouten).
 
 ## [LinkedIn](https://www.linkedin.com/in/ericscouten) 🔼
 
