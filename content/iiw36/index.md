@@ -47,3 +47,5 @@ If I've captured your interest, you can find some of my travel stories at these 
 
 * **[ericscouten.travel](https://ericscouten.com):** This is my primary travel blog, in which I publish stories from travels all over the world. Most recently, I've [spent a month exploring the Southeastern US](https://ericscouten.travel/2023/03-18+southeastern-us/) with my partner.
 * **[146 Parks](https://146parks.blog):** My home state of Washington has 146 state parks. In the depths of the pandemic, when bigger travel plans were off the table, I decided to visit and document every one of them. I've posted 116 park visits so far.
+
+![QR code](./iiw36-qr.png)
