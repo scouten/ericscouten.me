@@ -1,10 +1,6 @@
 +++
 title = "A Graceful Uncoupling"
 date = 2018-11-10
-updated = 2022-07-30
-
-[extra]
-first_published_on = "ericscouten.com"
 +++
 
 On a graceful parting ...
