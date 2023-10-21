@@ -21,3 +21,5 @@ endmark = true
 es_site = "me"
 article_type = "personal stories"
 fathom_site_id = "WFJQMXWQ"
+comments_enabled_default = false
+section_reverse_default = true
