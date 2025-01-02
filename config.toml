@@ -21,5 +21,6 @@ endmark = true
 es_site = "me"
 article_type = "personal stories"
 fathom_site_id = "WFJQMXWQ"
-comments_enabled_default = false
+hyvor_site_id = 12360
+comments_enabled_default = true
 section_reverse_default = true
