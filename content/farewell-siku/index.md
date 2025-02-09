@@ -4,6 +4,7 @@ date = 2019-07-16T18:00:59-07:00
 
 [extra]
 cover = "es-1395-069"
+cover_cdn_key = "img/v1/2009/03/es-1395-069"
 +++
 
 We made a sad farewell today.
@@ -34,36 +35,36 @@ It was an honor to give you a home.
 
 {{ es_vimeo(id="es-1395-016" vmid="803333969", caption = "Siku, a few days after he joined our family. He always seemed to know just the right touch with Ayla. · Home, Poulsbo, Washington, 2009") }}
 
-{{ es_image(id="es-1395-069", caption = "Just after Siku joined our family. · Home, Poulsbo, Washington, 2009") }}
+{{ es_cdn_image(id = "es-1395-069", cdn_version = "v1", cdn_key = "img/v1/2009/03/es-1395-069", caption = "Just after Siku joined our family. · Home, Poulsbo, Washington, 2009") }}
 
-{{ es_image(id="es-1463-517", title = "Chill", caption = "Home, Poulsbo, Washington, 2009") }}
+{{ es_cdn_image(id = "es-1463-517", cdn_version = "v1", cdn_key = "img/v1/2009/06/es-1463-517", title = "Chill", caption = "Home, Poulsbo, Washington, 2009") }}
 
-{{ es_image(id="es-1467-028", caption = "He always loved a car ride. · Poulsbo, Washington, 2009") }}
+{{ es_cdn_image(id = "es-1467-028", cdn_version = "v1", cdn_key = "img/v1/2009/07/es-1467-028", caption = "He always loved a car ride. · Poulsbo, Washington, 2009") }}
 
-{{ es_image(id="es-1525-130", caption = "At Ayla’s first birthday party. · Home, Poulsbo, Washington, 2009") }}
+{{ es_cdn_image(id = "es-1525-130", cdn_version = "v1", cdn_key = "img/v1/2009/08/es-1525-130", caption = "At Ayla’s first birthday party. · Home, Poulsbo, Washington, 2009") }}
 
-{{ es_image(id="es-1576-010", caption = "Siku loves the great weather, too. While you’re pushing Ayla in the swing, could you throw a ball for me? · Home, Poulsbo, Washington, 2010 ") }}
+{{ es_cdn_image(id = "es-1576-010", cdn_version = "v1", cdn_key = "img/v1/2010/02/es-1576-010", caption = "Siku loves the great weather, too. While you’re pushing Ayla in the swing, could you throw a ball for me? · Home, Poulsbo, Washington, 2010 ") }}
 
-{{ es_image(id="es-1615-020", title = "Clean-Up Poodle", caption = "When Ayla was in her high chair, Siku loved to hang out underneath and clean up the leftovers. · Home, Poulsbo, Washington, 2010") }}
+{{ es_cdn_image(id = "es-1615-020", cdn_version = "v1", cdn_key = "img/v1/2010/03/es-1615-020", title = "Clean-Up Poodle", caption = "When Ayla was in her high chair, Siku loved to hang out underneath and clean up the leftovers. · Home, Poulsbo, Washington, 2010") }}
 
-{{ es_image(id="ds-104-4599", title = "Grace and Siku", caption = "Home, Poulsbo, Washington, 2010", creator = "Donald C. Scouten") }}
+{{ es_cdn_image(id = "dcs-104-4599", cdn_version = "v1", cdn_key = "img/v1/2010/04/dcs-104-4599", title = "Grace and Siku", caption = "Home, Poulsbo, Washington, 2010", creator = "Donald C. Scouten") }}
 
-{{ es_image(id="es-2137-004", caption = "Home, Poulsbo, Washington, 2012") }}
+{{ es_cdn_image(id = "es-2137-004", cdn_version = "v1", cdn_key = "img/v1/2012/06/es-2137-004", caption = "Home, Poulsbo, Washington, 2012") }}
 
 One of Siku’s favorite things to do was to put his paws up on us when we were petting him.
 
-{{ es_image(id="es-2151-004", caption = "Home, Poulsbo, Washington, 2012") }}
+{{ es_cdn_image(id = "es-2151-004", cdn_version = "v1", cdn_key = "img/v1/2012/07/es-2151-004", caption = "Home, Poulsbo, Washington, 2012") }}
 
-{{ es_image(id="es-2747-020", caption = "Home, Bainbridge Island, Washington, 2014") }}
+{{ es_cdn_image(id = "es-2747-020", cdn_version = "v1", cdn_key = "img/v1/2014/12/es-2747-020", caption = "Home, Bainbridge Island, Washington, 2014") }}
 
-{{ es_image(id="es-2864-008", caption = "Home, Bainbridge Island, Washington, 2015") }}
+{{ es_cdn_image(id = "es-2864-008", cdn_version = "v1", cdn_key = "img/v1/2015/06/es-2864-008", caption = "Home, Bainbridge Island, Washington, 2015") }}
 
-{{ es_image(id="es-2910-008", caption = "Hello everybody, meet Siku. Siku is super friendly and loves to put a paw up on you when you’re giving him attention. He’s also absolutely shameless about going and grabbing food off the table when nobody’s looking. · Home, Bainbridge Island, Washington, 2015") }}
+{{ es_cdn_image(id = "es-2910-008", cdn_version = "v1", cdn_key = "img/v1/2015/09/es-2910-008", caption = "Hello everybody, meet Siku. Siku is super friendly and loves to put a paw up on you when you’re giving him attention. He’s also absolutely shameless about going and grabbing food off the table when nobody’s looking. · Home, Bainbridge Island, Washington, 2015") }}
 
-{{ es_image(id="es-2921-001", caption = "Home, Bainbridge Island, Washington, 2015") }}
-{{ es_image(id="es-2986-032", caption = "Home, Bainbridge Island, Washington, 2015") }}
+{{ es_cdn_image(id = "es-2921-001", cdn_version = "v1", cdn_key = "img/v1/2015/09/es-2921-001", caption = "Home, Bainbridge Island, Washington, 2015") }}
+{{ es_cdn_image(id = "es-2986-032", cdn_version = "v1", cdn_key = "img/v1/2015/12/es-2986-032", caption = "Home, Bainbridge Island, Washington, 2015") }}
 
-{{ es_image(id="ts-3264-002", caption = "Any question how long he has been staring at this tennis ball? Doggy persistence. · Home, Bainbridge Island, Washington, 2016", creator = "Tara Scouten") }}
+{{ es_cdn_image(id = "ts-3264-002", cdn_version = "v1", cdn_key = "img/v1/2016/05/ts-3264-002", caption = "Any question how long he has been staring at this tennis ball? Doggy persistence. · Home, Bainbridge Island, Washington, 2016", creator = "Tara Scouten") }}
 
 That tail though ...
 
@@ -71,22 +72,22 @@ _(Video taken by Brooke Hammett, who was kind enough to watch him while we were 
 
 {{ es_vimeo(id="bh-3263-001" vmid="803333957", caption = "Home, Bainbridge Island, Washington, 2016", creator = "Brooke Hammett") }}
 
-{{ es_image(id="es-3286-005", caption = "Home, Bainbridge Island, Washington, 2016") }}
-{{ es_image(id="es-3402-017", caption = "Home, Bainbridge Island, Washington, 2017") }}
+{{ es_cdn_image(id = "es-3286-005", cdn_version = "v1", cdn_key = "img/v1/2016/08/es-3286-005", caption = "Home, Bainbridge Island, Washington, 2016") }}
+{{ es_cdn_image(id = "es-3402-017", cdn_version = "v1", cdn_key = "img/v1/2017/02/es-3402-017", caption = "Home, Bainbridge Island, Washington, 2017") }}
 
-{{ es_image(id="es-3404-031", caption = "Dog is a dog’s best friend. (Found in Ayla’s room just now.) · Home, Bainbridge Island, Washington, 2017") }}
+{{ es_cdn_image(id = "es-3404-031", cdn_version = "v1", cdn_key = "img/v1/2017/02/es-3404-031", caption = "Dog is a dog’s best friend. (Found in Ayla’s room just now.) · Home, Bainbridge Island, Washington, 2017") }}
 
-{{ es_image(id="es-3465-034", caption = "Home, Bainbridge Island, Washington, 2017") }}
+{{ es_cdn_image(id = "es-3465-034", cdn_version = "v1", cdn_key = "img/v1/2017/05/es-3465-034", caption = "Home, Bainbridge Island, Washington, 2017") }}
 
 This picture pretty much sums up the local sentiment on the heat wave. This guy never throws in the towel on fetching!
 
-{{ es_image(id="bh-19437522_1452241811481190_2849461098920208988_n", caption = "Home, Bainbridge Island, Washington, 2017", creator = "Brooke Hammett") }}
+{{ es_cdn_image(id = "bh-176-8988", cdn_version = "v1", cdn_key = "img/v1/2017/06/bh-176-8988", caption = "Home, Bainbridge Island, Washington, 2017", creator = "Brooke Hammett") }}
 
-{{ es_image(id="es-3628-066", caption = "Home, Bainbridge Island, Washington, 2017") }}
+{{ es_cdn_image(id = "es-3628-066", cdn_version = "v1", cdn_key = "img/v1/2017/09/es-3628-066", caption = "Home, Bainbridge Island, Washington, 2017") }}
 
-{{ es_image(id="es-3721-004", caption = "Home, Bainbridge Island, Washington, 2018") }}
+{{ es_cdn_image(id = "es-3721-004", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3721-004", caption = "Home, Bainbridge Island, Washington, 2018") }}
 
-{{ es_image(id="es-3833-087", caption = "This lazy boy … · Home, Bainbridge Island, Washington, 2018") }}
+{{ es_cdn_image(id = "es-3833-087", cdn_version = "v1", cdn_key = "img/v1/2018/10/es-3833-087", caption = "This lazy boy … · Home, Bainbridge Island, Washington, 2018") }}
 
-{{ es_image(id="es-3989-032", caption = "Home, Bainbridge Island, Washington, 2019") }}
-{{ es_image(id="es-3989-034", caption = "Home, Bainbridge Island, Washington, 2019") }}
+{{ es_cdn_image(id = "es-3989-032", cdn_version = "v1", cdn_key = "img/v1/2019/07/es-3989-032", caption = "Home, Bainbridge Island, Washington, 2019") }}
+{{ es_cdn_image(id = "es-3989-034", cdn_version = "v1", cdn_key = "img/v1/2019/07/es-3989-034", caption = "Home, Bainbridge Island, Washington, 2019") }}
