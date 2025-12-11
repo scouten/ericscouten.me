@@ -21,7 +21,7 @@ I ask this question without regard to topic and especially without regard to whe
 
 ...
 
-You might have noticed that I've been conspicuously quiet on many topics recently. It's because I'm contemplating this question.
+You might have noticed that I've been conspicuously quiet on many topics recently. It's because I'm contemplating these questions.
 
 My answers:
 
