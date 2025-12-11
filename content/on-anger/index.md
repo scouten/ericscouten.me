@@ -40,6 +40,7 @@ Meanwhile, some articles and podcasts that I've found influential recently:
 
 * [Adam Grant on LinkedIn: How to think about disagreements](https://www.linkedin.com/feed/update/urn:li:activity:7376607228428046337/)
 * [Donald Roberston's podcast](https://overcast.fm/+AA92rkAFC94). I've linked to one episode, but several episodes in 2025 cover the topic of anger. A couple of favorite quotes, which may or may not be in _this_ episode:
+  * "Angry people specialize in making things worse."
   * "If you're angry you may as well be drunk. You have a similar lack of impulse control."
   * "What causes you more harm: Your anger or the thing that you're angry about?"
 
