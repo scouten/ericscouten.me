@@ -33,7 +33,7 @@ It was an honor to give you a home.
 
 ---
 
-{{ es_vimeo(id="es-1395-016" vmid="803333969", caption = "Siku, a few days after he joined our family. He always seemed to know just the right touch with Ayla. · Home, Poulsbo, Washington, 2009") }}
+{{ es_cdn_video(id = "es-1395-016", cdn_version = "v1", cdn_key = "vid/v1/2009/03/es-1395-016", caption = "Siku, a few days after he joined our family. He always seemed to know just the right touch with Ayla. · Home, Poulsbo, Washington, 2009") }}
 
 {{ es_cdn_image(id = "es-1395-069", cdn_version = "v1", cdn_key = "img/v1/2009/03/es-1395-069", caption = "Just after Siku joined our family. · Home, Poulsbo, Washington, 2009") }}
 
@@ -70,7 +70,7 @@ That tail though ...
 
 _(Video taken by Brooke Hammett, who was kind enough to watch him while we were on vacation one summer.)_
 
-{{ es_vimeo(id="bh-3263-001" vmid="803333957", caption = "Home, Bainbridge Island, Washington, 2016", creator = "Brooke Hammett") }}
+{{ es_cdn_video(id = "bh-3263-001", cdn_version = "v1", cdn_key = "vid/v1/2016/07/bh-3263-001", caption = "Home, Bainbridge Island, Washington, 2016", creator = "Brooke Hammett") }}
 
 {{ es_cdn_image(id = "es-3286-005", cdn_version = "v1", cdn_key = "img/v1/2016/08/es-3286-005", caption = "Home, Bainbridge Island, Washington, 2016") }}
 {{ es_cdn_image(id = "es-3402-017", cdn_version = "v1", cdn_key = "img/v1/2017/02/es-3402-017", caption = "Home, Bainbridge Island, Washington, 2017") }}
