@@ -16,7 +16,7 @@ On the occasion of a major milestone birthday, I am so thankful for his presence
 
 This was the guy who sat me down in front of a computer in 1975 (can that really be _fifty_ years ago?) and thus set me up for a lifelong interest in technology that has been the foundation of my career.
 
-This was the guy -- well, and my mom, too! -- who took me all over the country as a youth. These are still warm memories and planted the seeds of my love of a good road trip and beyond.
+This was the guy — well, and my mom, too! — who took me all over the country as a youth. These are still warm memories and planted the seeds of my love of a good road trip and beyond.
 
 This was the guy who captured many memories of my youth and thus set up my love of photography and memory-keeping.
 

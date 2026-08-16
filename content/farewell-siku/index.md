@@ -17,9 +17,9 @@ He came to us with the name Prince, which seemed like a complete mismatch. As we
 
 We knew the name Prince could not stick.
 
-So, we cast about for a new name. For the last decade, we’ve known him as Siku, which is an Inuit word for ice. It seemed fitting, since our previous poodle had been black. And the two dogs could not have been – pardon the pun – more black and white.
+So, we cast about for a new name. For the last decade, we’ve known him as Siku, which is an Inuit word for ice. It seemed fitting, since our previous poodle had been black. And the two dogs could not have been — pardon the pun — more black and white.
 
-Siku joined us just a few months after our daughter, Ayla, was born. From the first moments, he was unerringly gentle, kind, and patient with her – and really, with everyone.
+Siku joined us just a few months after our daughter, Ayla, was born. From the first moments, he was unerringly gentle, kind, and patient with her — and really, with everyone.
 
 You might think I am making him out to be a saint. He was not. He had a mischievous side, too. We soon learned that any food left out on a kitchen counter was fair game. But only when we stepped out of sight. And, if you had food on your plate that he fancied, he was quite willing to walk up and startle you with a nose under your elbow. (My mom may never quite forgive him for that habit!)
 

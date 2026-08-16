@@ -14,7 +14,7 @@ Tara and I have shared 20 years together as girlfriend and boyfriend, fiancées,
 
 Late last year, we began to realize that we had become good friends, comfortable housemates, and effective co-parents, but we had lost the feeling of being in love with each other. We had grown and evolved and changed in ways that make us fit together less comfortably than we liked.
 
-A few days ago, at our request, the courts here caught up to that reality – that our time together as a couple had reached its natural end – and declared us no longer husband and wife.
+A few days ago, at our request, the courts here caught up to that reality — that our time together as a couple had reached its natural end — and declared us no longer husband and wife.
 
 These transitions are never easy, but we’ve chosen to make it no harder than it needs to be.
 
